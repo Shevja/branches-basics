@@ -7,6 +7,7 @@ int main()
     printf("Hello\n");
     sum = a + b;
     printf("Сумма 5 и 3 равна %d\n", sum);
+    printf("bye\n");
 
     return 0;
 }
